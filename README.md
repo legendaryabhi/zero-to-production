@@ -26,8 +26,6 @@ A curated, opinionated collection of resources to make anything production-grade
 
 #### **Design & Architecture**
 
-Opinionated guides on structuring interfaces that survive production usage.
-
 #### REST & HTTP
 
 - **[Zalando RESTful API Guidelines](https://opensource.zalando.com/restful-api-guidelines/)** - One of the most comprehensive guides on the internet. Covers naming, versioning, and JSON structure with extreme detail.
@@ -49,16 +47,12 @@ Opinionated guides on structuring interfaces that survive production usage.
 
 #### **Security**
 
-Beyond basic auth—handling threats and permissions.
-
 - **[API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)** - A concise list of counter-measures against common attacks.
 - **[OWASP API Security Top 10](https://owasp.org/www-project-api-security/)** - The threat model you must design against (BOLA, Broken Auth, etc.).
 - **[Phantom Token Pattern](https://curity.io/resources/learn/phantom-token-pattern/)** - How to use opaque tokens for public clients while utilizing JWTs internally for performance.
 - **[RFC 6749: The OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749)** - Dense, but necessary if you are implementing your own provider (which you generally shouldn't).
 
 #### **Reliability & Scaling**
-
-Keeping the API up when traffic spikes.
 
 #### Rate Limiting & Load Shedding
 
