@@ -7,6 +7,13 @@ A curated, opinionated collection of resources to make anything production-grade
 
 > Production-grade ≠ fancy architecture
 
+## Who this is for
+
+- Engineers shipping APIs, backends, or platforms
+- Founders running their first production system
+- Teams moving from MVP → real users
+- Anyone who has been paged at 2AM
+
 ### Table of Contents
 
 - [API](#api)
